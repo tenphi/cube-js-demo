@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@cubejs-client/core": "^0.19.35",
-    "apexcharts": "^3.19.2",
+    "apexcharts": "^3.24.0",
     "core-js": "^3.6.5",
     "numl": "^0.11.21",
     "register-service-worker": "^1.7.1",
